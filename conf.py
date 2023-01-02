@@ -14,7 +14,7 @@ __version__ = '1.0'
 source_suffix = '.rst'
 master_doc = 'index'
 project = 'Stefano Cassone - Blog (English)'
-copyright = '2016, CHANGE-THIS'
+copyright = '2023, CC BY SA'
 
 # The name of the Pygments (syntax highlighting) style to use.
 pygments_style = 'sphinx'
